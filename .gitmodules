@@ -1,3 +1,4 @@
 [submodule "ric-examples"]
 	path = ric-examples
 	url = https://github.com/Rightech/ric-examples
+	branch = master
