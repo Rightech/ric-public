@@ -12,7 +12,7 @@ Rightech IoT Cloud (RIC) — это облачная платформа Инте
 
 ### Полезные ссылки
 - [Платформа](https://dev.rightech.io)
-- [Актуальный release notes](./release-notes/v2_6.md)
+- [Актуальный release notes](https://rightech.io/rightech-iot-cloud-v2-15/)
 - [Документация](https://rightech.io/developers/introductions/)
 - [Видеоуроки](https://rightech.io/video-tutorials/)
 - [Telegram-чат](https://t.me/rightech_iot) 
